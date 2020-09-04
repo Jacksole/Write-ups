@@ -65,6 +65,11 @@ local: ForMitch.txt remote: ForMitch.txt                                        
 226 Transfer complete.                                                                        │total 20
 166 bytes received in 0.00 secs (2.0039 MB/s) 
 ```
+`$ cat ForMitch.txt`
+```
+Dammit man... you'te the worst dev i've seen. You set the same pass for the system user, and the password is so weak... i cracked it in seconds. Gosh... what a mess!
+
+```
 ### Port 80
 > We go to the Browser for observing the Web-App
 
@@ -156,5 +161,8 @@ root
 
 `ls /home/mitch/user.txt`
 
+![user](https://user-images.githubusercontent.com/56790998/92249305-d89f1c80-ee97-11ea-9d21-ecb187edf5e3.png)
+
 `ls /root/root.txt`
 
+![root](https://user-images.githubusercontent.com/56790998/92249210-b0172280-ee97-11ea-93f5-0152bc87dc23.png)
