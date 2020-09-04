@@ -159,10 +159,10 @@ User mitch may run the following commands on Machine:
 root
 ```
 
-`ls /home/mitch/user.txt`
+`# ls /home/mitch/user.txt`
 
 ![user](https://user-images.githubusercontent.com/56790998/92249305-d89f1c80-ee97-11ea-9d21-ecb187edf5e3.png)
 
-`ls /root/root.txt`
+`# ls /root/root.txt`
 
 ![root](https://user-images.githubusercontent.com/56790998/92249210-b0172280-ee97-11ea-93f5-0152bc87dc23.png)
